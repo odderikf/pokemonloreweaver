@@ -1,0 +1,6 @@
+[submodule "agbcc"]
+	path = agbcc
+	url = ./agbcc/
+[submodule "porymap"]
+	path = porymap
+	url = https://github.com/huderlem/porymap
